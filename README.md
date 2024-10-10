@@ -31,10 +31,10 @@ Este es un sistema de gestión de incidencias diseñado para una institución ac
 ## Instalación
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/albertoprojects/gestion-incidencias.git
+   git clone https://github.com/StivenB23/AsisQuick
 2. Instala las dependencias de PHP con Composer:
    ```bash
-    cd gestion-incidencias
+    cd AsisQuick
     composer install
 3. Configura el archivo .env:
    ```bash
