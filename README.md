@@ -26,7 +26,7 @@ Este es un sistema de gestión de incidencias diseñado para una institución ac
 2. Composer
 3. MySQL 5.7+
 4. Apache Web Server
-5. Node.js (opcional para tareas de frontend y assets)
+5. Laravel
 
 ## Instalación
 1. Clona el repositorio en tu máquina local:
